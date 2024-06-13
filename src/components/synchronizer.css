@@ -19,6 +19,8 @@
     color: var(--white);
     background-color: var(--semi-black-color);
     border-bottom: 1px dashed var(--theme-color);
+    border-top: 1px dashed var(--theme-color);
+    border-left: 1px dashed var(--theme-color);
 }
 
 .space-button:active {
